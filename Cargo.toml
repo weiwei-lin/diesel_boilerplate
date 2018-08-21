@@ -1,0 +1,6 @@
+[package]
+name = "diesel_boilerplate"
+version = "0.1.0"
+authors = ["Weiwei Lin <weiwei.will.lin@gmail.com>"]
+
+[dependencies]
